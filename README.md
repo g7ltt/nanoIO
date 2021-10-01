@@ -42,3 +42,4 @@ An FSK / CW interface based on the Arduino nano. Sketch includes an FSK modulato
 * D11 / PIN 11 - FSK_PIN
 * D12 / PIN 12 – CW
 
+More information here http://www.w1hkj.com/files/nanoIO/nanoIO.html
