@@ -55,7 +55,7 @@
 // Configure for target h/w by removing the comment if your Morrty has a 
 // speed pot:
 
-#define WITH_SPEED_POT
+//#define WITH_SPEED_POT
 
 //----------------------------------------------------------------------
 // values which may need to be changed depending on specific hardware
