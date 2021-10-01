@@ -36,10 +36,4 @@ An FSK / CW interface based on the Arduino nano. Sketch includes an FSK modulato
 * 2 0.1uF capacitor
 * Suitable connectors to interface to transceiver
 
-**Default pin assignments defined in Arduino Sketch for the above circuit.**
-* D9 / PIN 9 – spare
-* D10 / PIN 10 – PTT
-* D11 / PIN 11 - FSK_PIN
-* D12 / PIN 12 – CW
-
 More information here http://www.w1hkj.com/files/nanoIO/
