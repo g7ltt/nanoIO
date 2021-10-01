@@ -31,16 +31,17 @@ Both
 an internal buffer of 200 characters is available for buffered transmit.
 Hardware requirement
 Arduino nano or compatible (author used nano from Elegoo)
-LTV-847 quad opto-isolator
-4 620 ohm ¼ watt resistor (should work with 500 < R < 820 ohm)
+LTV-827 dual opto-isolator
+2 620 ohm ¼ watt resistor (should work with 500 < R < 820 ohm)
 suitable connectors to interface to transceiver
 
-efault pin assignments defined in Arduino Sketch for the above circuit.
+Default pin assignments defined in Arduino Sketch for the above circuit.
 
 D9 / PIN 9 – spare
 D10 / PIN 10 – PTT
 D11 / PIN 11 - FSK_PIN
 D12 / PIN 12 – CW
+
 Default startup configuration
 nanoIO 1.0.1
 FSK: Baud: 45.45, Mark LOW
